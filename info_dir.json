@@ -1,0 +1,58 @@
+[
+    {
+        "name": "task_1.py",
+        "type": "file",
+        "size": 2765,
+        "files": null,
+        "parent": "Homework_8"
+    },
+    {
+        "name": "test",
+        "type": "folder",
+        "size": null,
+        "files": 3,
+        "parent": null
+    },
+    {
+        "name": "1.py",
+        "type": "file",
+        "size": 0,
+        "files": null,
+        "parent": "test"
+    },
+    {
+        "name": "2.py",
+        "type": "file",
+        "size": 0,
+        "files": null,
+        "parent": "test"
+    },
+    {
+        "name": "test2",
+        "type": "folder",
+        "size": null,
+        "files": 2,
+        "parent": null
+    },
+    {
+        "name": "1.txt",
+        "type": "file",
+        "size": 0,
+        "files": null,
+        "parent": "test2"
+    },
+    {
+        "name": "2.txt",
+        "type": "file",
+        "size": 0,
+        "files": null,
+        "parent": "test2"
+    },
+    {
+        "name": "__init__.py",
+        "type": "file",
+        "size": 23,
+        "files": null,
+        "parent": "Homework_8"
+    }
+]
